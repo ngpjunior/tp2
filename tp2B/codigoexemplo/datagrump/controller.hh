@@ -11,6 +11,11 @@ private:
   bool debug_; /* Enables debugging output */
 
   /* Add member variables here */
+  double the_window_size;
+  double ai;
+  double md;
+  double boundary_window;
+  double time_out_ms;
 
 public:
   /* Public interface for the congestion controller */
@@ -21,8 +26,11 @@ public:
   Controller( const bool debug );
 
   /* Get current window size, in datagrams */
-  unsigned int window_size();
-
+  double window_size();
+  
+  /* Set current window size, in datagrams */
+  void set_window_size(bool AIMD); 
+ 
   /* A datagram was sent */
   void datagram_was_sent( const uint64_t sequence_number,
 			  const uint64_t send_timestamp,
