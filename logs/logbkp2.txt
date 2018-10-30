@@ -1,0 +1,120 @@
+teste2
+9-25-16-24   throughput: 3.270  delay: 277.000  power: 11.805
+9-25-16-27   throughput: 3.250  delay: 275.000  power: 11.819
+9-25-16-29   throughput: 3.261  delay: 277.000  power: 11.771
+9-25-16-32   throughput: 3.262  delay: 275.000  power: 11.860
+9-25-16-34   throughput: 3.258  delay: 277.000  power: 11.762
+9-25-16-36   throughput: 3.259  delay: 276.000  power: 11.807
+9-25-16-39   throughput: 3.262  delay: 276.000  power: 11.819
+9-25-16-41   throughput: 3.252  delay: 276.000  power: 11.781
+9-25-16-43   throughput: 3.259  delay: 275.000  power: 11.849
+9-25-16-46   throughput: 3.256  delay: 277.000  power: 11.756
+9-25-16-48   throughput: 3.261  delay: 277.000  power: 11.773
+9-25-16-51   throughput: 3.250  delay: 276.000  power: 11.776
+9-25-16-53   throughput: 3.260  delay: 276.000  power: 11.811
+9-25-16-55   throughput: 3.261  delay: 276.000  power: 11.816
+9-25-16-58   throughput: 3.263  delay: 277.000  power: 11.779
+9-25-17-0   throughput: 3.262  delay: 277.000  power: 11.777
+9-25-17-3   throughput: 3.263  delay: 276.000  power: 11.823
+9-25-17-5   throughput: 3.256  delay: 276.000  power: 11.796
+9-25-17-7   throughput: 3.254  delay: 276.000  power: 11.791
+9-25-17-10   throughput: 3.261  delay: 277.000  power: 11.774
+9-25-17-12   throughput: 3.254  delay: 275.000  power: 11.832
+9-25-17-15   throughput: 3.260  delay: 276.000  power: 11.810
+9-25-17-17   throughput: 3.255  delay: 276.000  power: 11.792
+9-25-17-19   throughput: 3.258  delay: 277.000  power: 11.762
+9-25-17-22   throughput: 3.256  delay: 276.000  power: 11.796
+9-25-17-24   throughput: 3.257  delay: 276.000  power: 11.800
+==========================================================
+9-25-17-30   throughput: 3.259  delay: 277.000  power: 11.766
+9-25-17-32   throughput: 3.256  delay: 275.000  power: 11.841
+9-25-17-34   throughput: 3.259  delay: 276.000  power: 11.806
+9-25-17-37   throughput: 3.261  delay: 276.000  power: 11.815
+9-25-17-39   throughput: 3.260  delay: 276.000  power: 11.812
+9-25-17-42   throughput: 3.266  delay: 277.000  power: 11.790
+9-25-17-44   throughput: 3.262  delay: 276.000  power: 11.819
+9-25-17-46   throughput: 3.264  delay: 276.000  power: 11.825
+9-25-17-49   throughput: 3.261  delay: 276.000  power: 11.815
+9-25-17-51   throughput: 3.262  delay: 275.000  power: 11.862
+9-25-17-54   throughput: 3.264  delay: 277.000  power: 11.785
+9-25-17-56   throughput: 3.267  delay: 276.000  power: 11.839
+9-25-18-35   throughput: 2.436  delay: 289.000  power: 8.427
+9-25-18-38   throughput: 3.267  delay: 277.000  power: 11.793
+9-25-18-40   throughput: 3.258  delay: 276.000  power: 11.803
+9-25-18-43   throughput: 3.261  delay: 276.000  power: 11.813
+9-25-18-45   throughput: 3.265  delay: 277.000  power: 11.786
+9-25-18-47   throughput: 3.258  delay: 276.000  power: 11.806
+9-25-18-50   throughput: 3.264  delay: 278.000  power: 11.742
+9-25-18-52   throughput: 3.259  delay: 276.000  power: 11.807
+9-25-18-55   throughput: 3.258  delay: 276.000  power: 11.804
+9-25-18-57   throughput: 3.263  delay: 277.000  power: 11.779
+7-25-18-59   throughput: 3.261  delay: 277.000  power: 11.774
+9-25-19-2   throughput: 3.262  delay: 276.000  power: 11.817
+9-25-19-4   throughput: 3.264  delay: 277.000  power: 11.785
+9-25-19-7   throughput: 3.256  delay: 276.000  power: 11.797
+9-25-19-9   throughput: 3.257  delay: 275.000  power: 11.842
+9-25-19-11   throughput: 3.251  delay: 275.000  power: 11.821
+9-25-19-14   throughput: 3.257  delay: 276.000  power: 11.800
+9-25-19-16   throughput: 3.249  delay: 276.000  power: 11.772
+9-26-12-30   throughput: 3.458  delay: 32.000  power: 108.075
+9-26-12-33   throughput: 2.674  delay: 213.000  power: 12.553
+9-26-12-33   throughput: 2.674  delay: 213.000  power: 12.553
+9-26-12-36   throughput: 4.658  delay: 558.000  power: 8.348
+9-26-12-36   throughput: 4.658  delay: 558.000  power: 8.348
+9-26-12-38   throughput: 4.977  delay: 856.000  power: 5.814
+9-26-12-38   throughput: 4.977  delay: 856.000  power: 5.814
+9-26-12-41   throughput: 5.022  delay: 1090.000  power: 4.607
+9-26-12-41   throughput: 5.022  delay: 1090.000  power: 4.607
+9-26-12-43   throughput: 5.031  delay: 1300.000  power: 3.870
+9-26-12-43   throughput: 5.031  delay: 1300.000  power: 3.870
+9-26-13-26   throughput: 5.034  delay: 1494.000  power: 3.369
+9-26-13-29   throughput: 0.651  delay: 103.000  power: 6.316
+9-26-13-33   throughput: 2.248  delay: 176.000  power: 12.775
+9-26-13-36   throughput: 3.712  delay: 342.000  power: 10.854
+9-26-13-41   throughput: 0.648  delay: 102.000  power: 6.349
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-26-15-6   throughput: 4.757  delay: 566.000  power: 8.404
+Window: 1 AI: 0.5 MD: 2 Bound: 50 time out: 80
+9-26-15-8   throughput: 7.812  delay: 64.000  power: 122.066
+Window: 1 AI: 0.5 MD: 2 Bound: 50 time out: 80
+9-26-15-13   throughput: 4.441  delay: 470.000  power: 9.448
+Window: 1 AI: 0.1 MD: 2 Bound: 50 time out: 80
+9-26-15-37   throughput: 4.073  delay: 275.000  power: 14.812
+Window: 1 AI: 0.1 MD: 2 Bound: 15 time out: 80
+9-26-15-45   throughput: 2.068  delay: 116.000  power: 17.829
+Window: 1 AI: 0.555556 MD: 2 Bound: 15 time out: 80
+9-26-15-48   throughput: 2.352  delay: 169.000  power: 13.919
+Window: 1 AI: 0.01 MD: 2 Bound: 12 time out: 80
+9-26-15-51   throughput: 0.781  delay: 78.000  power: 10.010
+Window: 1 AI: 0.1 MD: 2 Bound: 12 time out: 80
+9-26-15-54   throughput: 1.748  delay: 97.000  power: 18.021
+Window: 1 AI: 0.1 MD: 2 Bound: 14 time out: 80
+9-26-15-57   throughput: 1.950  delay: 111.000  power: 17.567
+Window: 1 AI: 0.1 MD: 2 Bound: 12 time out: 80
+9-26-16-0   throughput: 1.752  delay: 98.000  power: 17.877
+9-26-16-32   throughput: 1.745  delay: 93.000  power: 18.767
+9-26-16-35   throughput: 1.745  delay: 99.000  power: 17.630
+9-26-16-38   throughput: 1.757  delay: 98.000  power: 17.925
+9-26-16-43   throughput: 1.764  delay: 103.000  power: 17.123
+9-26-16-55   throughput: 1.748  delay: 93.000  power: 18.796
+9-28-15-42   throughput: 1.777  delay: 96.000  power: 18.512
+9-28-15-52   throughput: 1.515  delay: 52.000  power: 29.130
+9-28-15-54   throughput: 1.776  delay: 94.000  power: 18.889
+9-28-15-57   throughput: 1.270  delay: 46.000  power: 27.599
+9-28-16-25   throughput: 0.702  delay: 51.000  power: 13.767
+9-28-16-27   throughput: 1.784  delay: 93.000  power: 19.182
+9-28-17-20   throughput: 1.037  delay: 43.000  power: 24.106
+9-28-17-23   throughput: 1.884  delay: 115.000  power: 16.385
+9-28-17-35   throughput: 1.733  delay: 116.000  power: 14.939
+9-28-17-38   throughput: 1.821  delay: 104.000  power: 17.505
+9-28-17-42   throughput: 1.800  delay: 104.000  power: 17.304
+=============================================================
+TESTES OFICIAIS PARA O TP2B	
+
+9-29-9-19   throughput: 0.828  delay: 49.000  power: 16.899
+9-29-9-21   throughput: 0.747  delay: 51.000  power: 14.654
+9-29-9-31   throughput: 1.036  delay: 53.000  power: 19.546
+9-29-9-31   throughput: 0.219  delay: 1.000  power: 218.764
+9-29-9-58   throughput: 0.783  delay: 52.000  power: 15.056
+9-29-9-59   throughput: 0.511  delay: 44.000  power: 11.622
+9-29-10-17   throughput: 1.777  delay: 95.000  power: 18.709

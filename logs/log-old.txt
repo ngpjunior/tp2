@@ -1,0 +1,342 @@
+TWS: 25 AI: 0.01 MD: 1.5 Window Limit: 25Time out: 80ms 
+9-22-16-53   5.724   35.000   163.556
+TWS: 25 AI: 0.01 MD: 1.5 Window Limit: 25Time out: 80ms 
+9-22-16-55   5.982   31.000   192.963
+TWS: 25 AI: 0.01 MD: 1.5 Window Limit: 25Time out: 80ms 
+9-22-16-55   5.828   36.000   161.889
+TWS: 25 AI: 0.01 MD: 1.5 Window Limit: 25Time out: 80ms 
+9-22-17-32   2.208   148.000   14.919
+9-23-10-9   4.773   607.000   7.864
+9-23-10-30   1.176   42.000   27.992
+9-23-10-30   1.086   89.000   12.204
+9-23-10-35   1.050   109.000   9.635
+9-23-10-35   1.050   109.000   9.635
+9-23-10-37   1.935   153.000   12.649
+9-23-10-38   1.935   153.000   12.649
+9-23-10-40   2.667   213.000   12.521
+9-23-10-40   2.667   213.000   12.521
+9-23-10-43   3.257   276.000   11.800
+9-23-10-43   3.257   276.000   11.800
+9-23-10-45   3.718   343.000   10.838
+9-23-10-45   3.718   343.000   10.838
+9-23-10-48   4.063   401.000   10.133
+9-23-10-48   4.063   401.000   10.133
+9-23-10-50   4.313   454.000   9.500
+9-23-10-50   4.313   454.000   9.500
+9-23-10-53   4.510   503.000   8.966
+9-23-10-53   4.510   503.000   8.966
+9-23-10-56   4.659   558.000   8.349
+9-23-10-56   4.659   558.000   8.349
+9-23-10-58   4.769   607.000   7.856
+9-23-10-58   4.769   607.000   7.856
+9-23-11-1   4.855   653.000   7.434
+9-23-11-1   4.855   653.000   7.434
+9-23-11-4   4.901   711.000   6.894
+9-23-11-4   4.901   711.000   6.894
+9-23-11-6   4.942   763.000   6.477
+9-23-11-6   4.942   763.000   6.477
+9-23-11-9   4.956   809.000   6.126
+9-23-11-9   4.956   809.000   6.126
+9-23-11-12   4.973   856.000   5.809
+9-23-11-12   4.973   856.000   5.809
+9-23-11-15   4.989   894.000   5.580
+9-23-11-15   4.989   894.000   5.580
+9-23-11-17   5.000   935.000   5.348
+9-23-11-17   5.000   935.000   5.348
+9-23-11-20   5.007   972.000   5.151
+9-23-11-20   5.007   972.000   5.151
+9-23-11-23   5.015   1008.000   4.975
+9-23-11-23   5.015   1008.000   4.975
+9-23-11-25   5.016   1051.000   4.773
+9-23-11-25   5.016   1051.000   4.773
+9-23-14-28   10.131   52.000   194.834
+9-23-14-36   4.770   607.000   7.858
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 809-23-15-28   0.094   126.000   0.746
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-15-37   0.230   77.000   2.989
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-15-42   0.234   60.000   3.906
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-15-45   4.754   559.000   8.504
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-15-48   throughput: 4.753  delay: 560.000  power: 8.487
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-16-22   throughput: 4.752  delay: 559.000  power: 8.500
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-18-30   throughput: 8.043  delay: 59.000  power: 136.329
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-23-18-38   throughput: 4.694  delay: 480.000  power: 9.779
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-24-11-36   throughput: 7.117  delay: 62.000  power: 114.794
+Window: 1 AI: 0.5 MD: 1.5 Bound: 50 time out: 80
+9-24-12-46   throughput: 7.161  delay: 56.000  power: 127.880
+9-24-13-49   throughput: 5.009  delay: 1046.000  power: 4.789
+9-24-13-49   throughput: 5.009  delay: 1046.000  power: 4.789
+9-24-13-53   throughput: 5.038  delay: 4468.000  power: 1.128
+9-24-13-53   throughput: 5.038  delay: 4468.000  power: 1.128
+9-24-13-56   throughput: 5.038  delay: 4466.000  power: 1.128
+9-24-13-56   throughput: 5.038  delay: 4466.000  power: 1.128
+9-24-13-59   throughput: 5.038  delay: 4466.000  power: 1.128
+9-24-13-59   throughput: 5.038  delay: 4466.000  power: 1.128
+9-24-14-3   throughput: 5.038  delay: 4465.000  power: 1.128
+9-24-14-3   throughput: 5.038  delay: 4465.000  power: 1.128
+9-24-14-6   throughput: 5.038  delay: 4467.000  power: 1.128
+9-24-14-6   throughput: 5.038  delay: 4467.000  power: 1.128
+9-24-14-10   throughput: 5.038  delay: 4467.000  power: 1.128
+9-24-14-10   throughput: 5.038  delay: 4467.000  power: 1.128
+9-24-14-11   throughput: 10.593  delay: 791.000  power: 13.392
+9-24-14-11   throughput: 10.593  delay: 791.000  power: 13.392
+9-24-14-11   throughput: 12.993  delay: 309.000  power: 42.050
+9-24-14-12   throughput: 12.993  delay: 309.000  power: 42.050
+9-24-14-15   throughput: 0.550  delay: 106.000  power: 5.193
+9-24-14-15   throughput: 0.550  delay: 106.000  power: 5.193
+9-24-14-18   throughput: 0.549  delay: 109.000  power: 5.034
+9-24-14-18   throughput: 0.549  delay: 109.000  power: 5.034
+9-24-14-20   throughput: 0.551  delay: 106.000  power: 5.197
+9-24-14-20   throughput: 0.551  delay: 106.000  power: 5.197
+9-24-14-25   throughput: 0.715  delay: 53.000  power: 13.494
+9-24-14-28   throughput: 0.647  delay: 106.000  power: 6.105
+9-24-14-28   throughput: 0.647  delay: 106.000  power: 6.105
+9-24-14-30   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-32   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-32   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-32   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-32   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-32   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-33   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-34   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-34   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-34   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-34   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-34   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-35   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-36   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-37   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-37   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-37   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-37   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-39   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-40   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-40   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-40   throughput: 0.627  delay: 131.000  power: 4.784
+9-24-14-42   throughput: 0.722  delay: 46.000  power: 15.690
+9-24-14-45   throughput: 0.646  delay: 106.000  power: 6.097
+9-24-14-45   throughput: 0.646  delay: 106.000  power: 6.097
+9-24-14-48   throughput: 0.650  delay: 101.000  power: 6.440
+9-24-14-48   throughput: 0.650  delay: 101.000  power: 6.440
+9-24-14-50   throughput: 0.652  delay: 105.000  power: 6.213
+9-24-14-50   throughput: 0.652  delay: 105.000  power: 6.213
+9-24-14-53   throughput: 0.652  delay: 106.000  power: 6.147
+9-24-14-53   throughput: 0.652  delay: 106.000  power: 6.147
+9-24-14-56   throughput: 0.652  delay: 104.000  power: 6.266
+9-24-14-56   throughput: 0.652  delay: 104.000  power: 6.266
+9-24-14-58   throughput: 0.651  delay: 106.000  power: 6.145
+9-24-14-58   throughput: 0.651  delay: 106.000  power: 6.145
+9-24-15-1   throughput: 0.651  delay: 106.000  power: 6.143
+9-24-15-1   throughput: 0.651  delay: 106.000  power: 6.143
+9-24-15-3   throughput: 0.650  delay: 101.000  power: 6.437
+9-24-15-4   throughput: 0.650  delay: 101.000  power: 6.437
+9-24-15-6   throughput: 0.650  delay: 103.000  power: 6.315
+9-24-15-6   throughput: 0.650  delay: 103.000  power: 6.315
+9-24-15-9   throughput: 0.653  delay: 105.000  power: 6.218
+9-24-15-9   throughput: 0.653  delay: 105.000  power: 6.218
+9-24-15-11   throughput: 0.650  delay: 106.000  power: 6.128
+9-24-15-11   throughput: 0.650  delay: 106.000  power: 6.128
+9-24-15-14   throughput: 0.651  delay: 102.000  power: 6.382
+9-24-15-14   throughput: 0.651  delay: 102.000  power: 6.382
+9-24-15-17   throughput: 0.648  delay: 104.000  power: 6.231
+9-24-15-17   throughput: 0.648  delay: 104.000  power: 6.231
+9-24-15-19   throughput: 0.649  delay: 107.000  power: 6.068
+9-24-15-19   throughput: 0.649  delay: 107.000  power: 6.068
+9-24-15-22   throughput: 0.649  delay: 104.000  power: 6.237
+9-24-15-22   throughput: 0.649  delay: 104.000  power: 6.237
+9-24-15-25   throughput: 0.649  delay: 107.000  power: 6.067
+9-24-15-25   throughput: 0.649  delay: 107.000  power: 6.067
+9-24-15-27   throughput: 0.651  delay: 107.000  power: 6.079
+9-24-15-27   throughput: 0.651  delay: 107.000  power: 6.079
+9-24-15-30   throughput: 0.646  delay: 104.000  power: 6.214
+9-24-15-30   throughput: 0.646  delay: 104.000  power: 6.214
+9-24-15-32   throughput: 0.647  delay: 103.000  power: 6.285
+9-24-15-32   throughput: 0.647  delay: 103.000  power: 6.285
+9-24-15-35   throughput: 0.649  delay: 103.000  power: 6.297
+9-24-15-35   throughput: 0.649  delay: 103.000  power: 6.297
+9-24-15-38   throughput: 0.648  delay: 105.000  power: 6.169
+9-24-15-38   throughput: 0.648  delay: 105.000  power: 6.169
+9-24-15-38   throughput: 0.687  delay: 67.000  power: 10.247
+9-24-15-42   throughput: 0.647  delay: 102.000  power: 6.347
+9-24-15-42   throughput: 0.647  delay: 102.000  power: 6.347
+9-24-15-44   throughput: 0.644  delay: 102.000  power: 6.318
+9-24-15-44   throughput: 0.644  delay: 102.000  power: 6.318
+9-24-15-47   throughput: 0.646  delay: 103.000  power: 6.271
+9-24-15-47   throughput: 0.646  delay: 103.000  power: 6.271
+9-24-15-49   throughput: 0.644  delay: 103.000  power: 6.256
+9-24-15-49   throughput: 0.644  delay: 103.000  power: 6.256
+9-24-15-52   throughput: 0.645  delay: 106.000  power: 6.087
+9-24-15-52   throughput: 0.645  delay: 106.000  power: 6.087
+9-24-15-57   throughput: 0.648  delay: 100.000  power: 6.477
+9-24-15-57   throughput: 0.648  delay: 100.000  power: 6.477
+9-24-16-0   throughput: 0.645  delay: 102.000  power: 6.324
+9-24-16-0   throughput: 0.645  delay: 102.000  power: 6.324
+9-24-16-2   throughput: 0.649  delay: 101.000  power: 6.424
+9-24-16-2   throughput: 0.649  delay: 101.000  power: 6.424
+9-24-16-7   throughput: 0.649  delay: 106.000  power: 6.126
+9-24-16-7   throughput: 0.649  delay: 106.000  power: 6.126
+9-24-16-10   throughput: 0.647  delay: 101.000  power: 6.411
+9-24-16-10   throughput: 0.647  delay: 101.000  power: 6.411
+9-24-16-12   throughput: 0.653  delay: 100.000  power: 6.532
+9-24-16-12   throughput: 0.653  delay: 100.000  power: 6.532
+9-24-16-15   throughput: 0.645  delay: 102.000  power: 6.328
+9-24-16-15   throughput: 0.645  delay: 102.000  power: 6.328
+9-24-16-17   throughput: 0.647  delay: 107.000  power: 6.043
+9-24-16-17   throughput: 0.647  delay: 107.000  power: 6.043
+9-24-16-20   throughput: 0.646  delay: 103.000  power: 6.268
+9-24-16-20   throughput: 0.646  delay: 103.000  power: 6.268
+9-24-16-23   throughput: 0.647  delay: 107.000  power: 6.049
+9-24-16-23   throughput: 0.647  delay: 107.000  power: 6.049
+9-24-16-25   throughput: 0.647  delay: 104.000  power: 6.220
+9-24-16-25   throughput: 0.647  delay: 104.000  power: 6.220
+9-24-16-28   throughput: 0.647  delay: 101.000  power: 6.405
+9-24-16-28   throughput: 0.647  delay: 101.000  power: 6.405
+9-24-16-31   throughput: 0.645  delay: 107.000  power: 6.029
+9-24-16-31   throughput: 0.645  delay: 107.000  power: 6.029
+9-24-16-33   throughput: 0.649  delay: 101.000  power: 6.425
+9-24-16-33   throughput: 0.649  delay: 101.000  power: 6.425
+9-24-16-36   throughput: 0.649  delay: 105.000  power: 6.180
+9-24-16-36   throughput: 0.649  delay: 105.000  power: 6.180
+9-24-16-38   throughput: 0.648  delay: 101.000  power: 6.413
+9-24-16-38   throughput: 0.648  delay: 101.000  power: 6.413
+9-24-16-41   throughput: 0.648  delay: 101.000  power: 6.412
+9-24-16-41   throughput: 0.648  delay: 101.000  power: 6.412
+9-24-16-43   throughput: 0.647  delay: 107.000  power: 6.043
+9-24-16-43   throughput: 0.647  delay: 107.000  power: 6.043
+9-24-16-46   throughput: 0.649  delay: 101.000  power: 6.423
+9-24-16-46   throughput: 0.649  delay: 101.000  power: 6.423
+9-24-16-49   throughput: 0.648  delay: 101.000  power: 6.415
+9-24-16-49   throughput: 0.648  delay: 101.000  power: 6.415
+9-24-16-51   throughput: 0.647  delay: 105.000  power: 6.160
+9-24-16-51   throughput: 0.647  delay: 105.000  power: 6.160
+9-24-16-54   throughput: 0.649  delay: 101.000  power: 6.424
+9-24-16-54   throughput: 0.649  delay: 101.000  power: 6.424
+9-24-16-56   throughput: 0.644  delay: 101.000  power: 6.375
+9-24-16-56   throughput: 0.644  delay: 101.000  power: 6.375
+9-24-16-59   throughput: 0.647  delay: 101.000  power: 6.404
+9-24-16-59   throughput: 0.647  delay: 101.000  power: 6.404
+9-24-17-1   throughput: 0.646  delay: 101.000  power: 6.398
+9-24-17-2   throughput: 0.646  delay: 101.000  power: 6.398
+9-24-17-4   throughput: 0.647  delay: 102.000  power: 6.347
+9-24-17-4   throughput: 0.647  delay: 102.000  power: 6.347
+9-24-17-7   throughput: 0.646  delay: 100.000  power: 6.455
+9-24-17-7   throughput: 0.646  delay: 100.000  power: 6.455
+9-24-17-9   throughput: 0.647  delay: 101.000  power: 6.405
+9-24-17-9   throughput: 0.647  delay: 101.000  power: 6.405
+9-24-17-12   throughput: 0.647  delay: 102.000  power: 6.339
+9-24-17-12   throughput: 0.647  delay: 102.000  power: 6.339
+9-24-17-15   throughput: 0.643  delay: 103.000  power: 6.247
+9-24-17-15   throughput: 0.643  delay: 103.000  power: 6.247
+9-24-17-17   throughput: 0.646  delay: 104.000  power: 6.210
+9-24-17-17   throughput: 0.646  delay: 104.000  power: 6.210
+9-24-17-20   throughput: 0.647  delay: 103.000  power: 6.279
+9-24-17-20   throughput: 0.647  delay: 103.000  power: 6.279
+9-24-17-22   throughput: 0.647  delay: 106.000  power: 6.100
+9-24-17-23   throughput: 0.647  delay: 106.000  power: 6.100
+9-24-17-25   throughput: 0.648  delay: 102.000  power: 6.353
+9-24-17-25   throughput: 0.648  delay: 102.000  power: 6.353
+9-24-17-28   throughput: 0.646  delay: 104.000  power: 6.216
+9-24-17-28   throughput: 0.646  delay: 104.000  power: 6.216
+9-24-17-30   throughput: 0.646  delay: 103.000  power: 6.272
+9-24-17-30   throughput: 0.646  delay: 103.000  power: 6.272
+9-25-13-10   throughput: 5.017  delay: 1043.000  power: 4.810
+9-25-13-23   throughput: 0.652  delay: 102.000  power: 6.396
+9-25-13-23   throughput: 0.652  delay: 102.000  power: 6.396
+9-25-13-25   throughput: 1.241  delay: 117.000  power: 10.605
+9-25-13-25   throughput: 1.241  delay: 117.000  power: 10.605
+9-25-13-28   throughput: 1.777  delay: 142.000  power: 12.511
+9-25-13-28   throughput: 1.777  delay: 142.000  power: 12.511
+9-25-13-30   throughput: 2.247  delay: 175.000  power: 12.842
+9-25-13-30   throughput: 2.247  delay: 175.000  power: 12.842
+9-25-13-33   throughput: 2.669  delay: 213.000  power: 12.531
+9-25-13-33   throughput: 2.669  delay: 213.000  power: 12.531
+9-25-13-35   throughput: 3.037  delay: 250.000  power: 12.148
+9-25-13-35   throughput: 3.037  delay: 250.000  power: 12.148
+9-25-13-38   throughput: 3.357  delay: 290.000  power: 11.577
+9-25-13-38   throughput: 3.357  delay: 290.000  power: 11.577
+9-25-13-40   throughput: 3.630  delay: 331.000  power: 10.967
+9-25-13-40   throughput: 3.630  delay: 331.000  power: 10.967
+9-25-13-43   throughput: 3.866  delay: 366.000  power: 10.563
+9-25-13-43   throughput: 3.866  delay: 366.000  power: 10.563
+9-25-13-45   throughput: 4.055  delay: 400.000  power: 10.138
+9-25-13-45   throughput: 4.055  delay: 400.000  power: 10.138
+9-25-13-48   throughput: 4.222  delay: 431.000  power: 9.795
+9-25-13-48   throughput: 4.222  delay: 431.000  power: 9.795
+9-25-13-50   throughput: 4.363  delay: 464.000  power: 9.402
+9-25-13-50   throughput: 4.363  delay: 464.000  power: 9.402
+9-25-13-53   throughput: 4.477  delay: 493.000  power: 9.081
+9-25-13-53   throughput: 4.477  delay: 493.000  power: 9.081
+9-25-13-55   throughput: 4.573  delay: 524.000  power: 8.727
+9-25-13-55   throughput: 4.573  delay: 524.000  power: 8.727
+9-25-13-58   throughput: 4.659  delay: 557.000  power: 8.365
+9-25-13-58   throughput: 4.659  delay: 557.000  power: 8.365
+9-25-14-0   throughput: 4.727  delay: 589.000  power: 8.026
+9-25-14-0   throughput: 4.727  delay: 589.000  power: 8.026
+9-25-14-3   throughput: 4.788  delay: 618.000  power: 7.748
+9-25-14-3   throughput: 4.788  delay: 618.000  power: 7.748
+9-25-14-5   throughput: 4.837  delay: 642.000  power: 7.534
+9-25-14-5   throughput: 4.837  delay: 642.000  power: 7.534
+9-25-14-8   throughput: 4.878  delay: 672.000  power: 7.259
+9-25-14-8   throughput: 4.878  delay: 672.000  power: 7.259
+9-25-14-10   throughput: 4.909  delay: 712.000  power: 6.894
+9-25-14-10   throughput: 4.909  delay: 712.000  power: 6.894
+9-25-14-13   throughput: 4.926  delay: 743.000  power: 6.630
+9-25-14-13   throughput: 4.926  delay: 743.000  power: 6.630
+9-25-14-15   throughput: 4.945  delay: 772.000  power: 6.405
+9-25-14-15   throughput: 4.945  delay: 772.000  power: 6.405
+9-25-14-18   throughput: 4.958  delay: 798.000  power: 6.213
+9-25-14-18   throughput: 4.958  delay: 798.000  power: 6.213
+9-25-14-20   throughput: 4.968  delay: 828.000  power: 6.000
+9-25-14-20   throughput: 4.968  delay: 828.000  power: 6.000
+9-25-14-23   throughput: 4.977  delay: 856.000  power: 5.814
+9-25-14-23   throughput: 4.977  delay: 856.000  power: 5.814
+9-25-14-25   throughput: 4.984  delay: 877.000  power: 5.683
+9-25-14-25   throughput: 4.984  delay: 877.000  power: 5.683
+9-25-14-28   throughput: 4.993  delay: 907.000  power: 5.505
+9-25-14-28   throughput: 4.993  delay: 907.000  power: 5.505
+9-25-14-30   throughput: 4.997  delay: 927.000  power: 5.391
+9-25-14-30   throughput: 4.997  delay: 927.000  power: 5.391
+9-25-14-33   throughput: 5.001  delay: 949.000  power: 5.270
+9-25-14-33   throughput: 5.001  delay: 949.000  power: 5.270
+9-25-14-35   throughput: 5.007  delay: 972.000  power: 5.151
+9-25-14-35   throughput: 5.007  delay: 972.000  power: 5.151
+9-25-14-38   throughput: 5.011  delay: 993.000  power: 5.047
+9-25-14-38   throughput: 5.011  delay: 993.000  power: 5.047
+9-25-14-40   throughput: 5.014  delay: 1017.000  power: 4.931
+9-25-14-41   throughput: 5.014  delay: 1017.000  power: 4.931
+9-25-14-43   throughput: 5.017  delay: 1045.000  power: 4.801
+9-25-14-43   throughput: 5.017  delay: 1045.000  power: 4.801
+9-25-16-7   throughput: 10.953  delay: 180.000  power: 60.851
+9-25-16-11   throughput: 3.273  delay: 277.000  power: 11.817
+9-25-16-11   throughput: 3.273  delay: 277.000  power: 11.817
+9-25-16-12   throughput: 4.774  delay: 25.000  power: 190.945
+9-25-16-17   throughput: 3.270  delay: 277.000  power: 11.804
+9-25-16-17   throughput: 3.270  delay: 277.000  power: 11.804
