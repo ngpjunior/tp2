@@ -15,12 +15,15 @@ meike() {
     cd $executa
 }
 
-for i in $(seq 0 5 100); do
-    echo $i
+
+for i in $(seq 1 3 99); do
+
+
+   echo $i
     if [ "$i" -eq "0" ];
     then
-        continue
-    elif [ "$i" -eq "5" ];
+       	continue
+    elif [ "$i" -eq "3" ];
     then
 	echo "MAHI $mahi"
         sed -i "s/saida/saida-$i/g" $mahi 
@@ -30,14 +33,14 @@ for i in $(seq 0 5 100); do
         sed -i "s/delay.svg/delay-$i\.svg/g" $mahi2
         cat $mahi2 | grep "\.svg"
         sed -i "s/the_window_size = 20/the_window_size = $i/g" $controller
-        meike
+       	make
         ./run-contest $TEAM_NAME-$i
-        sleep 1
+       	sleep 1
         $mahi 500 $dados
         $mahi2 $dados
     else
         echo "else - i = $i"
-        aux=$(($i-5))
+        aux=$(($i-3))
         sed -i "s/saida-$aux/saida-$i/g" $mahi
         cat $mahi | grep saida
         sed -i "s/throughput-$aux\.svg/throughput-$i\.svg/g" $mahi
@@ -45,10 +48,11 @@ for i in $(seq 0 5 100); do
         sed -i "s/delay-$aux.svg/delay-$i\.svg/g" $mahi2
         cat $mahi2 | grep "\.svg"
         sed -i "s/the_window_size = $aux/the_window_size = $i/g" $controller
-        meike
+       	make
         ./run-contest $TEAM_NAME-$i
-        sleep 1
+       	sleep 1
         $mahi 500 $dados
         $mahi2 $dados
     fi
 done
+

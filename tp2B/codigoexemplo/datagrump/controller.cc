@@ -9,7 +9,7 @@ using namespace std;
 
 /* Default constructor */
 Controller::Controller( const bool debug )
-  : debug_( debug ), the_window_size(1), ai(0.5), md(1.5),boundary_window(50),time_out_ms(80)
+: debug_( debug ), the_window_size(1), ai(0.20), md(0),boundary_window(12),time_out_ms(80)
 {
 cout << the_window_size;
  fstream file;
@@ -57,9 +57,19 @@ void Controller::set_window_size(bool AIMD){
 
 
 }
+/*
+void Controller::save_log(){
+ fstream file;
+
+ file.open("logB.txt", ios::ate | ios::app);
+ file << "time-stamp: "<< timestamp_ms() <<" Window: "<< the_window_size << " AI: " << ai << " MD: "<< md << " Bound: "<< boundary_window << " time out: "<< time_out_ms<<"\n";
 
 
+ file.close();
 
+
+}
+*/
 /* A datagram was sent */
 void Controller::datagram_was_sent( const uint64_t sequence_number,
 				    /* of the sent datagram */
@@ -102,7 +112,10 @@ void Controller::ack_received( const uint64_t sequence_number_acked,
   
     this->set_window_size( false );
 
+  }else{
+    this->set_window_size(true);
   }
+
 
   if ( debug_ ) {
     cerr << "At time " << timestamp_ack_received

@@ -30,7 +30,7 @@ public:
   
   /* Set current window size, in datagrams */
   void set_window_size(bool AIMD); 
- 
+  void save_log(); 
   /* A datagram was sent */
   void datagram_was_sent( const uint64_t sequence_number,
 			  const uint64_t send_timestamp,
