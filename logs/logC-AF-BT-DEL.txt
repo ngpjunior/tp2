@@ -1,0 +1,57 @@
+-----------Testes referentes a o exercício C---------------------
+Alpha: 1 Beta: 0.1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-21   throughput: 4.189  delay: 332.000  power: 12.617
+Alpha: 1 Beta: 0.2 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-23   throughput: 4.082  delay: 249.000  power: 16.394
+Alpha: 1 Beta: 0.3 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-26   throughput: 4.258  delay: 225.000  power: 18.926
+Alpha: 1 Beta: 0.4 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-29   throughput: 4.423  delay: 193.000  power: 22.916
+Alpha: 1 Beta: 0.5 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-31   throughput: 4.516  delay: 172.000  power: 26.254
+Alpha: 1 Beta: 0.6 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-34   throughput: 4.498  delay: 151.000  power: 29.789
+Alpha: 1 Beta: 0.7 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-36   throughput: 4.423  delay: 141.000  power: 31.370
+Alpha: 1 Beta: 0.8 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-39   throughput: 4.333  delay: 131.000  power: 33.079
+Alpha: 1 Beta: 0.9 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-41   throughput: 4.205  delay: 127.000  power: 33.107
+Alpha: 0.1 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-44   throughput: 4.018  delay: 229.000  power: 17.547
+Alpha: 0.2 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-46   throughput: 4.199  delay: 189.000  power: 22.218
+Alpha: 0.3 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-49   throughput: 4.149  delay: 168.000  power: 24.696
+Alpha: 0.4 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-51   throughput: 4.129  delay: 145.000  power: 28.474
+Alpha: 0.5 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-54   throughput: 4.064  delay: 140.000  power: 29.027
+Alpha: 0.6 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-56   throughput: 4.022  delay: 128.000  power: 31.422
+Alpha: 0.7 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-12-59   throughput: 3.983  delay: 125.000  power: 31.862
+Alpha: 0.8 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-2   throughput: 3.943  delay: 121.000  power: 32.589
+Alpha: 0.9 Beta: 1 Delta: 1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-4   throughput: 3.856  delay: 119.000  power: 32.407
+Alpha: 1 Beta: 1 Delta: 0.1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-7   throughput: 0.766  delay: 77.000  power: 9.943
+Alpha: 1 Beta: 1 Delta: 0.2 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-9   throughput: 1.473  delay: 79.000  power: 18.642
+Alpha: 1 Beta: 1 Delta: 0.3 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-12   throughput: 2.157  delay: 81.000  power: 26.635
+Alpha: 1 Beta: 1 Delta: 0.4 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-14   throughput: 2.724  delay: 85.000  power: 32.043
+Alpha: 1 Beta: 1 Delta: 0.5 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-17   throughput: 3.158  delay: 89.000  power: 35.488
+Alpha: 1 Beta: 1 Delta: 0.6 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-19   throughput: 3.436  delay: 97.000  power: 35.422
+Alpha: 1 Beta: 1 Delta: 0.7 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-22   throughput: 3.705  delay: 98.000  power: 37.802
+Alpha: 1 Beta: 1 Delta: 0.8 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-24   throughput: 3.874  delay: 113.000  power: 34.281
+Alpha: 1 Beta: 1 Delta: 0.9 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-27   throughput: 4.016  delay: 113.000  power: 35.542
+Alpha: 1 Beta: 1 Delta: 0.1 T_LOW: 60 T_HIGH: 150 MIN_RTT: 50 MIN_RATE: 1 N: 1 time out: 80
+9-31-13-29   throughput: 0.726  delay: 77.000  power: 9.435

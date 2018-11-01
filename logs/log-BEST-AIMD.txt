@@ -1,0 +1,40 @@
+Window: 1 AI: 0.1 MD: 19 Bound: 12 time out: 80
+9-29-15-4   throughput: 1.182  delay: 82.000  power: 14.409
+Window: 1 AI: 0.2 MD: 18 Bound: 12 time out: 80
+9-29-15-7   throughput: 1.374  delay: 96.000  power: 14.314
+Window: 1 AI: 0.3 MD: 17 Bound: 12 time out: 80
+9-29-15-9   throughput: 1.480  delay: 103.000  power: 14.372
+Window: 1 AI: 0.4 MD: 16 Bound: 12 time out: 80
+9-29-15-11   throughput: 1.604  delay: 114.000  power: 14.066
+Window: 1 AI: 0.5 MD: 15 Bound: 12 time out: 80
+9-29-15-14   throughput: 1.548  delay: 110.000  power: 14.069
+Window: 1 AI: 0.6 MD: 14 Bound: 12 time out: 80
+9-29-15-16   throughput: 1.748  delay: 115.000  power: 15.198
+Window: 1 AI: 0.7 MD: 13 Bound: 12 time out: 80
+9-29-15-19   throughput: 1.702  delay: 119.000  power: 14.303
+Window: 1 AI: 0.8 MD: 12 Bound: 12 time out: 80
+9-29-15-21   throughput: 1.811  delay: 126.000  power: 14.375
+Window: 1 AI: 0.9 MD: 11 Bound: 12 time out: 80
+9-29-15-23   throughput: 1.919  delay: 125.000  power: 15.353
+Window: 1 AI: 0.1 MD: 10 Bound: 12 time out: 80
+9-29-15-26   throughput: 1.190  delay: 80.000  power: 14.873
+Window: 1 AI: 0.11 MD: 9 Bound: 12 time out: 80
+9-29-15-28   throughput: 1.223  delay: 82.000  power: 14.913
+Window: 1 AI: 0.12 MD: 8 Bound: 12 time out: 80
+9-29-15-30   throughput: 1.254  delay: 82.000  power: 15.287
+Window: 1 AI: 0.13 MD: 7 Bound: 12 time out: 80
+9-29-15-33   throughput: 1.320  delay: 86.000  power: 15.344
+Window: 1 AI: 0.14 MD: 6 Bound: 12 time out: 80
+9-29-15-35   throughput: 1.380  delay: 89.000  power: 15.504
+Window: 1 AI: 0.15 MD: 5 Bound: 12 time out: 80
+9-29-15-38   throughput: 1.448  delay: 93.000  power: 15.570
+Window: 1 AI: 0.16 MD: 4 Bound: 12 time out: 80
+9-29-15-40   throughput: 1.508  delay: 90.000  power: 16.756
+Window: 1 AI: 0.17 MD: 3 Bound: 12 time out: 80
+9-29-15-42   throughput: 1.680  delay: 98.000  power: 17.141
+Window: 1 AI: 0.18 MD: 2 Bound: 12 time out: 80
+9-29-15-45   throughput: 1.864  delay: 113.000  power: 16.492
+Window: 1 AI: 0.19 MD: 1 Bound: 12 time out: 80
+9-29-15-47   throughput: 2.386  delay: 160.000  power: 14.915
+Window: 1 AI: 0.2 MD: 0 Bound: 12 time out: 80
+9-29-15-50   throughput: 4.978  delay: 104952.000  power: 0.047
