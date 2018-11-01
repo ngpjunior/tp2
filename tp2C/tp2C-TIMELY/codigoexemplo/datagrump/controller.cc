@@ -12,13 +12,12 @@ relatar os testes do TIMELY
 
 */
 Controller::Controller( const bool debug )
-  : debug_( debug ), ALPHA(0.8), BETA(0.3), DELTA(0.25), T_LOW(60), T_HIGH(150), MIN_RTT(50), MIN_RATE(1.0), N(1), prev_rtt(MIN_RTT), rtt_diff(0), the_window_size(50), new_rtt(0), time_out_ms(80)
+  : debug_( debug ), ALPHA(0.8), BETA(1), DELTA(0.10), T_LOW(50), T_HIGH(500), MIN_RTT(50), MIN_RATE(1.0), prev_rtt(MIN_RTT), rtt_diff(0), the_window_size(50), new_rtt(0), time_out_ms(80)
 {
   fstream file;
   file.open("/home/tp2/log.txt", ios::ate | ios::app);
-  file << "Alpha: " << ALPHA << " Beta: "<< BETA << " Delta: "<< DELTA << " T_LOW: "<<T_LOW<<" T_HIGH: "<<T_HIGH<<" MIN_RTT: "<<MIN_RTT<<" MIN_RATE: "<<MIN_RATE<<" N: "<< N<< " time out: "<< time_out_ms<<"\n";
+  file << "Alpha: " << ALPHA << " Beta: "<< BETA << " Delta: "<< DELTA << " T_LOW: "<<T_LOW<<" T_HIGH: "<<T_HIGH<<" MIN_RTT: "<<MIN_RTT<<" MIN_RATE: "<<MIN_RATE<<" time out: "<< time_out_ms<<"\n";
   file.close();
- 
 }
 
 /* Get current window size, in datagrams */
@@ -26,6 +25,10 @@ double Controller::window_size()
 {
   /* Default: fixed window size of 100 outstanding datagrams */
 /* double the_window_size = rate;*/
+    if (the_window_size < MIN_RATE) {
+      the_window_size = MIN_RATE;
+    }
+ 
  cerr <<"\n"<<"TWS: "<< the_window_size ;
 
   if ( debug_ ) {
@@ -50,28 +53,23 @@ void Controller::set_window_size(uint64_t timestamp_ack_received, uint64_t send_
 
   if (new_rtt < T_LOW) {
     the_window_size += DELTA;
+    
   }else if (new_rtt > T_HIGH) {
     the_window_size *= (1 - BETA * (1- T_HIGH / new_rtt));
 
-    if (the_window_size < MIN_RATE) {
-      the_window_size = MIN_RATE;
-    }
-    this->save_log();
+/*    this->save_log();*/
     return;
   }
 
   if (normalized_gradient <= 0) {
-    the_window_size += N * DELTA;
+    the_window_size += DELTA;
   } else {
     the_window_size *= (1 - BETA * normalized_gradient);
   }
 
-  if (the_window_size < MIN_RATE) {
-    the_window_size = MIN_RATE;
-  }
   
 
-  this->save_log();
+/*  this->save_log();*/
 }
 
 

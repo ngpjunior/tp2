@@ -17,7 +17,6 @@ private:
   const unsigned int T_HIGH;
   const unsigned int MIN_RTT;
   const double MIN_RATE;
-  const unsigned int N;
 
   unsigned int prev_rtt;
   double rtt_diff;

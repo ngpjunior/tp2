@@ -5,7 +5,7 @@ TEAM_NAME=Nelson
 controller=/home/tp2/codigoexemplo/datagrump/controller.cc
 
 
-
+sed -i "s|ALPHA(1)|ALPHA(0.8)|g" $controller
 for i in $(seq 1 1 9); do
   echo $i
   if [ "$i" -eq "1" ]; 
@@ -29,28 +29,28 @@ done
 
 sed -i "s|BETA(0.9)|BETA(1)|g" $controller
 
-for i in $(seq 1 1 9); do
-  echo $i
-  if [ "$i" -eq "1" ];
-  then
-  echo "1"
-    sed -i "s|ALPHA(1)|ALPHA(0.$((i)))|g" $controller
+#for i in $(seq 1 1 9); do
+ # echo $i
+ # if [ "$i" -eq "1" ];
+ # then
+ # echo "1"
+ #   sed -i "s|ALPHA(1)|ALPHA(0.$((i)))|g" $controller
+#
+ #   make
+  #  ./run-contest $TEAM_NAME-$i
+ #    sleep 10
+ # else
+ # aux=$(($i-1))
+#
+ #   sed -i "s|ALPHA(0.$((i-1)))|ALPHA(0.$((i)))|g" $controller
+#
+ #   make
+  #  ./run-contest $TEAM_NAME-$i
+  #  sleep 10
+  # fi
+#done
 
-    make
-    ./run-contest $TEAM_NAME-$i
-     sleep 10
-  else
-  aux=$(($i-1))
-
-    sed -i "s|ALPHA(0.$((i-1)))|ALPHA(0.$((i)))|g" $controller
-
-    make
-    ./run-contest $TEAM_NAME-$i
-    sleep 10
-   fi
-done
-
-sed -i "s|ALPHA(0.9)|ALPHA(1)|g" $controller
+#sed -i "s|ALPHA(0.9)|ALPHA(1)|g" $controller
 
 for i in $(seq 1 1 10); do
   echo $i
